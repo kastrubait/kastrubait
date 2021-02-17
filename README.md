@@ -13,7 +13,7 @@ https://t.me/mitaka763
 #### TECHNICAL SKILLS
 
 •	HTML/CSS3  
-•	Javascript/ES5/ES6/Typescript 
+•	Javascript/ES5/ES6/Typescript   
 •	Angular/RxJS/NGRX  
 •	Node.JS/Express  
 •	Oracle/MongoDB/Firebase   
