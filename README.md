@@ -1,13 +1,11 @@
 ### I'm Tatsiana.
 
-> I'm detail-oriented Frontend Software Engineer seeking a position with Company to use my skills in coding, troubleshooting problems, and assisting in the timely completion of projects. 
-> Despite the lack of experience, I strive to work hard and self-study to achieve my goals. Most of my time I spend on getting skills 
-> in writing code and learning modern algorithms.  
-> I have experience (3 years) in applications designing, development and production support experience for banking, with a system analysis, design, and development using SAP (SAP DM, FS-BP, SAP ER, SAP BW, BADI, BAPI)
+> I'm a detail-oriented Frontend Software Engineer seeking a position with Company to utilize my coding and problem-solving skills. 
+> Despite my little experience, I try to work hard and self-study to achieve my goals. I spend most of my time acquiring skills in writing code and learning modern algorithms.  
 
 #### CONTACT INFO:
 
-mitakas183@gmail.com  
+tatsiana.kastrubai@gmail.com  
 https://t.me/mitaka763
 
 #### TECHNICAL SKILLS
@@ -16,10 +14,12 @@ https://t.me/mitaka763
 •	Javascript/ES5/ES6/Typescript   
 •	Angular/RxJS/NGRX  
 •	Node.JS/Express  
-•	Oracle/MongoDB/Firebase   
-•	Webpack  
+•	Oracle/MongoDB/Firebase 
+•	Webpack, npm, Git   
 •	JIRA/Confluence  
-•	basics of SQL, ABAP, Python, C++, Pascal, VBA
+•	ABAP, Python, C++  
+•	VSC/WEBSTORM  
+•	Figma/Photoshop
 
 #### CERTIFICATIONS/TRAININGS
 
