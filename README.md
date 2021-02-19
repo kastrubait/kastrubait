@@ -14,7 +14,7 @@ https://t.me/mitaka763
 •	Javascript/ES5/ES6/Typescript   
 •	Angular/RxJS/NGRX  
 •	Node.JS/Express  
-•	Oracle/MongoDB/Firebase 
+•	Oracle/MongoDB/Firebase  
 •	Webpack, npm, Git   
 •	JIRA/Confluence  
 •	ABAP, Python, C++  
