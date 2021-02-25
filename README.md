@@ -23,6 +23,7 @@ https://t.me/mitaka763
 
 #### CERTIFICATIONS/TRAININGS
 
+[JAVASCRIPT/FRONT-END DEVELOPMENT, RSSCHOOL](https://app.rs.school/certificate/4d9sh6dt)
 [DEVELOPMENT WITH ANGULAR, RSSCHOOL](https://app.rs.school/certificate/1wala3f5)  
 [DEVELOPMENT WITH NODE.JS, RSSCHOOL](https://app.rs.school/certificate/l3uzqm3v)  
 [6.00.1X: INTRODUCTION TO COMPUTER SCIENCE AND PROGRAMMING USING PYTHON](https://s3.amazonaws.com/verify.edx.org/downloads/b247a7ab5bc340dd96523c7b2848119e/Certificate.pdf)
