@@ -1,7 +1,7 @@
 ### I'm Tatsiana.
 
 > I'm a detail-oriented Frontend Software Engineer seeking a position with Company to utilize my coding and problem-solving skills. 
-> Despite my little experience, I try to work hard and self-study to achieve my goals. I spend most of my time acquiring skills in writing code and learning modern algorithms.  
+> I try to work hard and self-study to achieve my goals. I spend most of my time acquiring skills in writing code and learning modern algorithms.  
 
 #### CONTACT INFO:
 
