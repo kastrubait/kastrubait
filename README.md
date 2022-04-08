@@ -13,7 +13,7 @@ https://t.me/mitaka763
 •	HTML/CSS3/PUG  
 •	Javascript/ES5/ES6/Typescript   
 •	Angular/RxJS/NGRX  
-•	Node.JS/Express  
+•	Node.JS/Express/NestJs   
 •	ABAP/Odata/Fiori  
 •	Oracle/MongoDB/PostgreSQL  
 •	Webpack, npm, Git   
