@@ -18,8 +18,8 @@ https://t.me/mitaka763
 •	Oracle/MongoDB/PostgreSQL  
 •	Webpack, npm, Git   
 •	JIRA/Confluence  
-•	Python, C++
-•	VSC/WEBSTORM/Eclipse
+•	Python, C++  
+•	VSC/WEBSTORM/Eclipse  
 •	Figma/Photoshop
 
 #### CERTIFICATIONS/TRAININGS
