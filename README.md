@@ -14,11 +14,12 @@ https://t.me/mitaka763
 •	Javascript/ES5/ES6/Typescript   
 •	Angular/RxJS/NGRX  
 •	Node.JS/Express  
+•	ABAP/Odata/Fiori 
 •	Oracle/MongoDB/PostgreSQL  
 •	Webpack, npm, Git   
 •	JIRA/Confluence  
-•	ABAP, Python, C++  
-•	VSC/WEBSTORM  
+•	Python, C++
+•	VSC/WEBSTORM/Eclipse
 •	Figma/Photoshop
 
 #### CERTIFICATIONS/TRAININGS
