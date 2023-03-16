@@ -18,7 +18,7 @@ https://t.me/mitaka763
 •	Oracle/MongoDB/PostgreSQL  
 •	Webpack, npm, Git   
 •	JIRA/Confluence  
-•	Python, C++  
+•	Python 
 •	VSC/WEBSTORM/Eclipse  
 •	Figma/Photoshop
 
