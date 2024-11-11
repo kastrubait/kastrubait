@@ -11,14 +11,14 @@ https://t.me/mitaka763
 #### TECHNICAL SKILLS
 
 •	HTML/CSS3/PUG  
-•	Javascript/ES5/ES6/Typescript   
+•	Javascript/ES5/ES6/Typescript
+•	Java(beginner)
 •	Angular/RxJS/NGRX  
 •	Node.JS/Express/NestJs   
 •	ABAP/Odata/Fiori  
 •	Oracle/MongoDB/PostgreSQL  
 •	Webpack, npm, Git   
 •	JIRA/Confluence  
-•	Python 
 •	VSC/WEBSTORM/Eclipse  
 •	Figma/Photoshop
 
